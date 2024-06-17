@@ -1,0 +1,2 @@
+# StanfordassignmentFinal
+Karel is a kind robot. He can help visually imparied persons who want to study books. Any english textbook, he can read it in English as well as other languages like  French, Chinese, Portogese and Spanish.
